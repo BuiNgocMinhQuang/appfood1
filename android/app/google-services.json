@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "105027482701",
+    "project_id": "foood-8db84",
+    "storage_bucket": "foood-8db84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105027482701:android:1c07c69e983d0dd9d31804",
+        "android_client_info": {
+          "package_name": "com.appfood1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105027482701-ivis7f0ao9uuqt5fmtso0de3dsse7jlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appfood1",
+            "certificate_hash": "16f2bd126a6d551fc784f3c0ec99495914b3da58"
+          }
+        },
+        {
+          "client_id": "105027482701-1476oatr2vmm25pki9crj1qlfe75qo64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9x0g4anLwzPItmnyRY1sfXRevKW3ql7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105027482701-1476oatr2vmm25pki9crj1qlfe75qo64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105027482701-11dq5pvrg5g8c6geaihdmgn2fj8keaas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Captian-Cook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
